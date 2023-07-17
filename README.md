@@ -1,3 +1,17 @@
+Используемые технологии
+JavaScript
+CSS
+HTML
+GIT
+Ссылка на GitHub Pages website https://oleg149.github.io/js-cp-diploma-edited/
+
+Название файлов JS
+createRequest
+hall
+index
+payment
+ticket
+
 # Дипломное задание по курсу «JavaScript-программирование для начинающих»
 
 ## Создание «информационной системы для предварительного бронирования билетов».
