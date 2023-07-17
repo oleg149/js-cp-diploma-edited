@@ -1,4 +1,4 @@
-let selectSeanse = JSON.parse(sessionStorage.selectSeanse);
+let selectSeanse = JSON.parse(localStorage.selectSeanse);
 let bodyRequest = `event=get_hallConfig&timestamp=${selectSeanse.seanceTimeStamp}&hallId=${selectSeanse.hallId}&seanceId=${selectSeanse.seanceId}`;
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -64,7 +64,7 @@ document.addEventListener("DOMContentLoaded", () => {
     selectSeanse.hallConfig = configurationHall;
     selectSeanse.salesPlaces = selectedPlaces;
 
-    sessionStorage.setItem('selectSeanse', JSON.stringify(selectSeanse));
+    localStorage.setItem('selectSeanse', JSON.stringify(selectSeanse));
 
     window.location.href = "payment.html";
   });
