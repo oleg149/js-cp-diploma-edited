@@ -2,8 +2,12 @@
 JavaScript
 CSS
 HTML
+JavaScript
+CSS
+HTML
 GIT
-Ссылка на GitHub Pages website https://oleg149.github.io/js-cp-diploma-edited/
+Ссылка на GitHub Pages
+https://oleg149.github.io/js-cp-diploma-edited/
 
 Название файлов JS
 createRequest
