@@ -9,11 +9,11 @@ https://oleg149.github.io/js-cp-diploma-edited/
 
 Название файлов JS:
 
-createRequest
-hall
-index
-payment
-ticket
+createRequest,
+hall,
+index,
+payment,
+ticket.
 
 # Дипломное задание по курсу «JavaScript-программирование для начинающих»
 
