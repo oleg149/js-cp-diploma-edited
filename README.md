@@ -1,10 +1,10 @@
-Используемые технологии
+Используемые технологии:
 JavaScript
 CSS
 HTML
 GIT
 
-Ссылка на GitHub Pages
+Ссылка на GitHub Pages:
 https://oleg149.github.io/js-cp-diploma-edited/
 
 Название файлов JS:
